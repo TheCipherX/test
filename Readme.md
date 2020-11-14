@@ -2,6 +2,8 @@
 
 A Simple and Powerful Termux Lock Using Shell Script
 
+Fully Coded by : DARK PHOENIX
+Feedback? : https://wa.me/15817003192
 
 Installation
 ```
