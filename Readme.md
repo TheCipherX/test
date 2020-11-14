@@ -19,9 +19,9 @@ The Password is 'root'
 Wanna Change Password?
 ```
 Don't be so lazy,
- Open lock.sh file in Editor
- Search for word root
- Once found, Change to whatever you want,
+Open lock.sh inside CNLock in Editor
+Search for word root
+Once found, Change to whatever you want,
 After Saving the file, Run handler.sh 
 bash handler.sh
 That's All.. Enjoy😊.
